@@ -1,0 +1,17 @@
+{
+  "name": "tdd-boilerplate",
+  "version": "0.0.0",
+  "description": "Getting started with tests.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ryanlntn/tdd-boilerplate.git"
+  },
+  "author": "Ryan Linton",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "3840861113c42d6b7e990e8b3883c399d581d994"
+}
