@@ -13,5 +13,8 @@
   "author": "Ryan Linton",
   "license": "MIT",
   "readmeFilename": "README.md",
-  "gitHead": "3840861113c42d6b7e990e8b3883c399d581d994"
+  "gitHead": "3840861113c42d6b7e990e8b3883c399d581d994",
+  "devDependencies": {
+    "mocha": "~1.18.0"
+  }
 }
